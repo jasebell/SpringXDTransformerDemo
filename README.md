@@ -10,7 +10,7 @@ This repo is to accompany the four part walk through of **Twitter Fashion Analyt
 
 [Part 3](http://dataissexy.wordpress.com/2013/11/17/twitter-fashion-analytics-in-spring-xd-part-3bigdata-fashion/) - Outputting streams to Hadoop HDFS and running MapReduce job.
 
-Part 4 is coming soon - D3 Visualisation
+[Part 4](http://dataissexy.wordpress.com/2013/11/17/twitter-fashion-analytics-in-spring-xd-part-4bigdata-fashion/)  - D3 Visualisation
 
 
 
